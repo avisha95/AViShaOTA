@@ -1,0 +1,26 @@
+# Datatypes (KEYWORD1)
+AViShaOTA	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+handle	KEYWORD2
+end	KEYWORD2
+setOTAPassword	KEYWORD2
+setHostname	KEYWORD2
+enableMDNS	KEYWORD2
+enableSerialDebug	KEYWORD2
+onStart	KEYWORD2
+onEnd	KEYWORD2
+onProgress	KEYWORD2
+onError	KEYWORD2
+onWiFiConnected	KEYWORD2
+onWiFiDisconnected	KEYWORD2
+getLocalIP	KEYWORD2
+getUploadURL	KEYWORD2
+isConnected	KEYWORD2
+isOTAInProgress	KEYWORD2
+restart	KEYWORD2
+getVersion	KEYWORD2
+
+# Constants (LITERAL1)
+AVISHA_OTA_VERSION	LITERAL1
